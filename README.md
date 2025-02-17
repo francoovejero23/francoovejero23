@@ -1,4 +1,4 @@
-<h1 align="center">Hola 🖐, soy Franco Ovejero un gustoo!! 🖐</h1>
+<h1 align="center">Hola 🖐, soy Franco Ovejero🖐</h1>
 <h3 align="center">Desarrollador Web Full-Stack, apasionado por la tecnología, la música, el diseño y el arte en general.</h3>
 
 
